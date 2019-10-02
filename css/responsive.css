@@ -1,0 +1,640 @@
+
+@media (min-width: 1919px) {
+
+	
+	
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1269px) {	  
+    
+.intro-content {
+    margin-top: -130px;
+}
+.support-all {
+    margin-left: 10px;
+}		
+.banner-content h3 {
+    font-size: 26px;
+    max-width: 470px;
+}	    
+.header-right-link {
+    width: 140px;
+}   
+.right-side {
+    padding-left: 0px;
+} 
+.list-single {
+    padding-left: 65px;
+}
+.list-single p {
+    font-size: 15px;
+}    
+    
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.logo a {
+    padding: 17px 0;
+}
+.header-area.stick .logo a {
+    padding: 12px 0;
+}
+.header-right-link {
+    width: 120px;
+    margin-left: 10px;
+    padding: 30px 0px;
+}
+.header-area.stick .header-right-link {
+     padding: 22px 0px;
+}
+.intro-area-3 .layer-1 h2,
+.layer-1 h2 {
+    font-size: 30px;
+    line-height: 38px;
+    max-width: 338px;
+    margin-bottom: 10px;
+}
+.layer-2 p {
+    font-size: 14px;
+    line-height: 26px;
+    max-width: 400px;
+    margin-bottom: 0px;
+}
+.intro-content {
+    margin-top: -90px;
+}
+.main-menu ul.navbar-nav li a{
+    padding: 30px 7px;
+}
+.header-area.stick .main-menu ul.navbar-nav li a {
+    padding: 25px 7px;
+}
+.main-menu ul.nav li .mega-menu {
+    width: 720px;
+    left: -54%;
+}
+.main-menu > ul.navbar-nav >li >a::before,
+.header-area.stick .main-menu > ul.navbar-nav >li >a::before {
+    left: 9px;
+    bottom: 25px;
+}
+.ab-btn {
+    margin-top: 10px;
+}
+.feature-text p {
+    font-size: 15px;
+    line-height: 26px;
+}		
+.fun_text span {
+    padding-bottom: 0px;
+}	
+.fun_text > h4 {
+    font-size: 15px;
+}	
+.subs-form {
+    padding: 0px 10px 50px;
+}
+.blog-content a h4 {
+    font-size: 21px;
+}
+.blog-search-option input {
+    width: 69%;
+}
+.banner-contact {
+    float: left;
+    padding: 30px 0px 0px;
+}
+.contact-head {
+    margin-top: 40px;
+} 	
+.feature-text h4 {
+    font-size: 18px;
+}	
+.prices {
+    font-size: 34px;
+}		
+.table-list li.check::before {
+    left: 5%;
+}      
+.support-all {
+    margin-left: 10px;
+}             
+.faq-area .faq-content {
+    margin-left: 30px;
+}    
+.single-brand-item {
+    padding: 15px 15px;
+}    
+.subs-feilds {
+    background: #051946;
+    padding: 25px 10px;
+}    
+.suscribe-input button {
+    font-size: 14px;
+    padding: 10px 5px;
+    width: 43%;
+}    
+.suscribe-input input {
+    width: 57%;
+} 
+.footer-list {
+    width: 100%;
+    float: none;
+}
+.footer-list li a {
+    font-size: 15px;
+}
+.feature-btn {
+    font-size: 15px;
+    padding: 10px 20px;
+}    
+.banner-inner {
+    padding-left: 0px;
+}
+.left-faq {
+    padding-right: 10px;
+}
+.right-faq {
+    padding-left: 10px;
+} 
+.page-area {
+    max-height: 460px;
+}       
+.page-head-left .single-page-head {
+    margin-right: 0px;
+}  
+.left-menu ul li a {
+    font-size: 14px;
+}       
+.left-banner-text {
+    padding: 50px 20px;
+}    
+.left-banner-text h4 {
+    font-size: 26px;
+}    
+.faq-details h4.check-title {
+    font-size: 16px;
+}    
+.page-head-right .single-page-head {
+    margin-left: 0px;
+}        
+.team-pages .single-member {
+    margin: 20px 5px 20px;
+}
+.post-img {
+    display: none;
+}
+.pst-content {
+    padding-left: 0px;
+}
+.blog-details .blog-content h4 {
+    font-size: 21px;
+}      
+.top-price-inner {
+    padding: 40px 30px 30px;
+    margin-bottom: 0px;
+}    
+.pages-header .main-menu ul.navbar-nav li a {
+    padding: 30px 10px;
+}    
+.pages-header.stick .main-menu ul.navbar-nav li a {
+    padding: 30px 10px;
+}
+.single-member{
+    margin-top: 30px;
+}
+.right-side {
+    padding-left: 0px;
+}    
+.services-image {
+    margin-bottom: 60px;
+}    
+.support-all.left-item {
+    padding-right: 20px;
+}
+.support-all.right-item {
+    padding-left: 20px;
+}
+.feature-text {
+    margin-bottom: 50px;
+}    
+.feature-area-2{
+    background: #fafafa;
+}   
+span.users{
+    color: #444;
+}    
+.intro-area-2 .layer-2 p {
+    font-size: 15px;
+    max-width: 460px;
+}    
+.intro-area-2 .layer-1 h2 {
+    margin: 0 auto 15px;
+}    
+.intro-area-2 .intro-content {
+    margin-top: -60px;
+}    
+.intro-area-3 .layer-2 p{
+    max-width: 350px;
+}     
+.breadcrumb {
+    padding: 210px 0px 135px;
+} 
+.choose-area-2 .choose-text {
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+.choose-text {
+    margin-left: 10px;
+    margin-top: 0px;
+}    
+    
+    
+    
+    
+    
+    
+    
+	
+	
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+.logo {
+    height: inherit;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 4px;
+    z-index: 999999;
+    max-width: 130px;
+}
+.logo a,
+.header-two .logo a{
+    padding: 0px;
+}
+.intro-bg{
+	display: none;
+}
+.intro-area .bg-wrapper {
+    float: none;
+    width: 100%;
+    height: 100%;
+    min-height: 400px;
+}
+.bg-wrapper img {
+    width: 100%;
+    height: 100%;
+    min-height: 460px;
+    object-fit: cover;
+}
+.bg-wrapper img, .intro-bg img {
+    max-width: 100%;
+    height: auto;
+    opacity: 0.2;
+}
+.intro-content {
+    margin-top: -110px;
+}
+.slide-icon {
+    margin-right: 2px;
+}
+h6.best-title {
+    font-size: 14px;
+}
+.intro-area-3 .layer-1 h2,
+.layer-1 h2 {
+    font-size: 26px;
+    line-height: 32px;
+}
+.layer-2 p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.ready-btn {
+    width: 125px;
+}
+.services-list {
+    padding-right: 0px;
+}
+.left-headline h3 {
+    font-size: 26px;
+}
+.support-all.left-item {
+    padding-right: 0px;
+    margin-top: 0px;
+}
+.support-all.right-item {
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.about-btn {
+    padding-left: 60px;
+}
+.ab-btn {
+    margin-top: 0px;
+    font-size: 16px;
+}
+.ab-btn.ab-2-btn {
+    margin-top: 15px;
+}
+.about-area {
+    background-position: top left;
+    background-size: contain;
+}
+.services-image{
+    margin: 60px 0px;
+}
+.well-services.first-item, 
+.well-services.thired-item {
+    position: relative;
+    top: 0px;
+}
+.feature-text ul li {
+    float: none;
+    width: 100%;
+}
+.feature-text ul li {
+    float: none;
+    width: 100%;
+}
+.feature-text h3 {
+    font-size: 26px;
+    line-height: 34px;
+}
+.feature-text p {
+    font-size: 14px;
+}
+.feature-inner{
+    margin-bottom: 50px;
+}
+.feature-area-2 {
+    background: #fdfcfc;
+}
+.list-single {
+    padding-left: 70px;
+}
+.fun_text {
+    text-align: center;
+    position: relative;
+    margin-bottom: 0px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+.fun_text span {
+    padding-bottom: 20px;
+}
+span.users {
+    color: #444;
+}
+.top-price-inner {
+    padding: 20px 30px 10px;
+}
+.banner-content {
+    padding: 0px 0px;
+}
+.blog-content a h4 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.banner-content h3 {
+    font-size: 26px;
+    line-height: 32px;
+}
+.mail-btn {
+    margin-right: 0px;
+}
+.banner-btn {
+    float: none;
+    margin-top: 30px;
+}
+.section-headline h2 {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+.footer-content {
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+.last-content{
+	margin-bottom: 0px;
+}
+.faq-page-area .faq-content {
+    margin-top: 40px;
+}	
+.faq-content h4 {
+    font-size: 18px;
+}		
+.recent-post .post-img {
+    display: none;
+}	
+.recent-post .pst-content {
+    float: none;
+    width: 100%;
+    padding-left: 0px;
+}	
+.blog-search-option input {
+    width: 75%;
+}	
+.blog-details .blog-content h4 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.blog-content {
+    padding: 40px 15px 40px 20px;
+}
+.blog-1 .blog-meta::before {
+    left: -20px;
+}
+.comments-list-img {
+    width: 60px;
+    height: auto;
+}	
+.left-head-blog {
+    margin-top: 50px;
+    padding-left: 0px;
+}	
+.contact-head {
+    margin-top: 40px;
+}	
+.video-content {
+    margin-top: -20px;
+}
+.support-content {
+    padding-left: 55px;
+}
+.faq-area .faq-content {
+    margin-left: 0px;
+    margin-top: 40px;
+}    
+.suscribe-input button {
+    font-size: 15px;
+    width: 40%;
+}
+.suscribe-input input {
+    width: 60%;
+}   
+.best-feature {
+    font-size: 14px;
+}    
+.feature-btn {
+    font-size: 15px;
+    padding: 10px 20px;
+}      
+.left-faq,
+.right-faq {
+    padding-right: 0px;
+    padding-left: 0px;
+}        
+.footer-head.logo-head {
+    text-align: left;
+}
+.breadcrumb h3 {
+    font-size: 32px;
+    line-height: 40px;
+}    
+.page-area {
+    max-height: 440px;
+}    
+.office-city {
+    padding: 30px 10px 20px;
+    margin-bottom: 50px;
+}   
+.single-icon i {
+    margin-right: 15px;
+}   
+.single-icon p {
+    font-size: 13px;
+}   
+.breadcrumb ul li {
+    font-size: 16px;
+}    
+.blog-details .blog-content {
+    border: none;
+    padding: 30px 0px;
+}       
+blockquote {
+    padding: 20px 20px 40px 50px;
+}    
+blockquote::before {
+    left: 15px;
+    font-size: 30px;
+}    
+.related-post-list .recent-single-post {
+    width: 100%;
+    float: none;
+    padding: 0px 0px 0px 0px;
+}    
+.related-post-list .recent-single-post:last-child {
+    padding: 30px 0px 0px 0px;
+}
+.threaded-comments {
+    margin-left: 15px;
+}
+.left-head-blog.left-side{
+    margin-top: 0px;
+    margin-bottom: 50px;
+}         
+.faq-details h4.check-title {
+    font-size: 15px;
+}    
+.faq-details h4.check-title a {
+    padding: 10px 10px 10px 70px;
+}        
+.section-headline h3 {
+    font-size: 26px;
+}   
+.blog-meta span {
+    font-size: 13px;
+    padding-right: 5px;
+}   
+.footer-list li a {
+    font-size: 14px;
+}    
+.footer-area {
+    background-position: top center;
+    background-size: contain;
+}    
+.breadcrumb {
+    padding: 190px 0px 130px;
+}    
+.team-area{
+   background:#fdfcfc; 
+}        
+.testi-img img {
+    margin-right: 10px;
+}    
+.guest-details span {
+    font-size: 13px;
+} 
+.contact-inner {
+    margin-top: 50px;
+}    
+.intro-area-3 .layer-1 h2 {
+    color: #444;
+}    
+.intro-area-3 .layer-2 p{
+    color:#888;
+} 
+.choose-image{
+    padding-left: 0px;
+}
+.choose-text {
+    margin-left: 10px;
+}
+.choose-area-2 .choose-text {
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+.contact-images {
+    margin-bottom: 60px;
+}    
+.welcome-area {
+    padding: 110px 0px;
+}    
+    
+    
+    
+    
+	
+    
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.fun_text {
+    padding: 15% 2%;
+}
+.office-city {
+    padding: 30px 30px 20px;
+}
+.single-icon p {
+    font-size: 14px;
+}           
+.banner-content {
+    padding: 0px 20px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+ 
